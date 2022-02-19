@@ -2,7 +2,7 @@
 ## I'm a second-year student of Computer Science at the Jagiellonian University (Kraków, Poland).
 - 💡 I'm a member of the Computer Science Students Association KSI UJ.
 - 💼 [LinkedIn](https://www.linkedin.com/in/jakub-steczkiewicz/)
-- 📄 [Resume](https://drive.google.com/file/d/1q2I7EuZFLLM3MzsiidHguI9rmoicPPGp/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/17pTTD6AhYawjox4e4UBZzuC_c1yxvnDO/view?usp=sharing)
 
 <!--
 **Stekoaa/Stekoaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
