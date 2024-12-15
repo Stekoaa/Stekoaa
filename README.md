@@ -1,5 +1,5 @@
 ### <h1 align="center"> Hi there! I'm Kuba 👋 </h1>
-## I'm a fourth-year student of Computer Science at the Jagiellonian University (Kraków, Poland).
+## I'm a fifth-year student of Computer Science at the Jagiellonian University (Kraków, Poland).
 - 💡 I'm a member of the Computer Science Students Association KSI UJ.
 - 💼 [LinkedIn](https://www.linkedin.com/in/jakub-steczkiewicz/)
 
